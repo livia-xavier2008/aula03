@@ -1,0 +1,12 @@
+.loading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffffff; /* Ajuste a cor de fundo */
+  }
+  
+  .loading-svg {
+    fill: #3498db; /* Cor do ícone */
+  }
+  
